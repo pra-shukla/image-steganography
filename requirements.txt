@@ -1,0 +1,5 @@
+customtkinter==5.2.1
+darkdetect==0.8.0
+numpy==1.25.2
+packaging==24.1
+Pillow==10.0.1

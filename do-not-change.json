@@ -1,0 +1,24 @@
+{
+	"dispersion": {
+		"seed": null,
+		"cycles": 1000
+	},
+	"encryption": {
+		"algos": {
+			"AES": ["AES-128", "AES-192", "AES-256"]
+		},
+		"default": "AES"
+	},
+	"stego": {
+		"algos": {
+			"LSB": ["LSB"]
+		},
+		"default": "LSB"
+	},
+	"lsb":{
+		"depth": 2
+	},
+	"AES": {
+		"kdf": 1
+	}
+}

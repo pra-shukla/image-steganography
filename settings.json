@@ -1,0 +1,12 @@
+{
+    "dispersion": {
+        "a": 27,
+        "seed": 128
+    },
+    "lsb": {
+        "depth": 1
+    },
+    "AES": {
+        "kdf": 27
+    }
+}
